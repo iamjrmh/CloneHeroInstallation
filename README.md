@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎸 Clone Hero — Installation Guide
+# 🎸 Clone Hero - Installation Guide
 
 **Get up and running on every platform.**
 
@@ -54,10 +54,10 @@
 
 ### Installing Clone Hero
 
-There are three ways to install Clone Hero on Windows — pick whichever suits you best.
+There are three ways to install Clone Hero on Windows - pick whichever suits you best.
 
 <details>
-<summary><b>Option 1 — via CHSuite</b> <em>(recommended)</em></summary>
+<summary><b>Option 1 - via CHSuite</b> <em>(recommended)</em></summary>
 <br>
 
 1. Install the latest version of [CHSuite](https://github.com/iamjrmh/CHSuite) and navigate to **CHManager**.
@@ -67,7 +67,7 @@ There are three ways to install Clone Hero on Windows — pick whichever suits y
 </details>
 
 <details>
-<summary><b>Option 2 — via Clone Hero Launcher</b></summary>
+<summary><b>Option 2 - via Clone Hero Launcher</b></summary>
 <br>
 
 1. Download and install the [Clone Hero Launcher](https://github.com/clonehero-game/releases/releases/download/CloneHeroLauncher/chlauncher-setup.exe).
@@ -77,7 +77,7 @@ There are three ways to install Clone Hero on Windows — pick whichever suits y
 </details>
 
 <details>
-<summary><b>Option 3 — via the official website</b></summary>
+<summary><b>Option 3 - via the official website</b></summary>
 <br>
 
 1. Go to [clonehero.net](https://clonehero.net/) and press **Download vX.X.X.X**.
@@ -85,7 +85,7 @@ There are three ways to install Clone Hero on Windows — pick whichever suits y
 3. Select **Install for all users** and follow the rest of the installer.
 
 > [!TIP]
-> Choose **Typical** when prompted — this is strongly recommended over Portable. A Typical Install stores your game data (songs, custom content, profiles) in **Documents > Clone Hero**, which is the standard location. Portable mode stores everything in a `PlayerData` folder inside the game's install directory instead.
+> Choose **Typical** when prompted - this is strongly recommended over Portable. A Typical Install stores your game data (songs, custom content, profiles) in **Documents > Clone Hero**, which is the standard location. Portable mode stores everything in a `PlayerData` folder inside the game's install directory instead.
 
 4. Once installed, open Clone Hero once and close it to make sure it generates all of the required files.
 
@@ -99,7 +99,7 @@ There are three ways to install Clone Hero on Windows — pick whichever suits y
 > CHSuite only downloads `.sng` files, which requires Clone Hero **v1.1 or later**. Bridge and Chorus Encore do not force `.sng`, so they work with older versions. `.sng` is highly recommended if you're on a hard drive and downloading tens of thousands of songs.
 
 <details>
-<summary><b>Option 1 — via CHSuite</b></summary>
+<summary><b>Option 1 - via CHSuite</b></summary>
 <br>
 
 1. Install [CHSuite](https://github.com/iamjrmh/CHSuite) and navigate to **CHSongManager**.
@@ -110,7 +110,7 @@ There are three ways to install Clone Hero on Windows — pick whichever suits y
 </details>
 
 <details>
-<summary><b>Option 2 — via Bridge</b></summary>
+<summary><b>Option 2 - via Bridge</b></summary>
 <br>
 
 1. Download and install [Bridge](https://github.com/Geomitron/Bridge/releases/download/v3.4.5/Bridge-Setup-3.4.5.exe).
@@ -121,7 +121,7 @@ There are three ways to install Clone Hero on Windows — pick whichever suits y
 </details>
 
 <details>
-<summary><b>Option 3 — via Chorus Encore</b></summary>
+<summary><b>Option 3 - via Chorus Encore</b></summary>
 <br>
 
 1. Make sure you have [WinRAR](https://www.win-rar.com/start.html?&L=0) or [7-Zip](https://www.7-zip.org/) installed.
@@ -151,10 +151,10 @@ There are three ways to install Clone Hero on Windows — pick whichever suits y
 
 ### Installing Clone Hero
 
-There are three ways to install Clone Hero on Linux — pick whichever suits you best.
+There are three ways to install Clone Hero on Linux - pick whichever suits you best.
 
 <details>
-<summary><b>Option 1 — via CHSuite</b> <em>(recommended)</em></summary>
+<summary><b>Option 1 - via CHSuite</b> <em>(recommended)</em></summary>
 <br>
 
 1. Install the latest version of [CHSuite](https://github.com/iamjrmh/CHSuite) and navigate to **CHManager**.
@@ -164,7 +164,7 @@ There are three ways to install Clone Hero on Linux — pick whichever suits you
 </details>
 
 <details>
-<summary><b>Option 2 — via Clone Hero Launcher</b></summary>
+<summary><b>Option 2 - via Clone Hero Launcher</b></summary>
 <br>
 
 1. Download the [Clone Hero Launcher AppImage](https://github.com/clonehero-game/releases/releases/download/CloneHeroLauncher/ch_launcher-linux.AppImage).
@@ -174,7 +174,7 @@ There are three ways to install Clone Hero on Linux — pick whichever suits you
 </details>
 
 <details>
-<summary><b>Option 3 — via the official website</b></summary>
+<summary><b>Option 3 - via the official website</b></summary>
 <br>
 
 1. Go to [clonehero.net](https://clonehero.net/) and press **Download vX.X.X.X**.
@@ -191,7 +191,7 @@ There are three ways to install Clone Hero on Linux — pick whichever suits you
 > CHSuite only downloads `.sng` files, which requires Clone Hero **v1.1 or later**. Bridge and Chorus Encore do not force `.sng`, so they work with older versions. `.sng` is highly recommended if you're on a hard drive and downloading tens of thousands of songs.
 
 <details>
-<summary><b>Option 1 — via CHSuite</b></summary>
+<summary><b>Option 1 - via CHSuite</b></summary>
 <br>
 
 1. Download [CHSuite](https://github.com/iamjrmh/CHSuite) and navigate to **CHSongManager**.
@@ -202,7 +202,7 @@ There are three ways to install Clone Hero on Linux — pick whichever suits you
 </details>
 
 <details>
-<summary><b>Option 2 — via Bridge</b></summary>
+<summary><b>Option 2 - via Bridge</b></summary>
 <br>
 
 1. Download the [Bridge AppImage](https://github.com/Geomitron/Bridge/releases/download/v3.4.5/Bridge-3.4.5.AppImage).
@@ -213,7 +213,7 @@ There are three ways to install Clone Hero on Linux — pick whichever suits you
 </details>
 
 <details>
-<summary><b>Option 3 — via Chorus Encore</b></summary>
+<summary><b>Option 3 - via Chorus Encore</b></summary>
 <br>
 
 1. Go to [enchor.us](https://www.enchor.us/) and search for the song you want.
@@ -237,10 +237,10 @@ There are three ways to install Clone Hero on Linux — pick whichever suits you
 
 ### Installing Clone Hero
 
-There are three ways to install Clone Hero on macOS — pick whichever suits you best.
+There are three ways to install Clone Hero on macOS - pick whichever suits you best.
 
 <details>
-<summary><b>Option 1 — via CHSuite</b> <em>(recommended)</em></summary>
+<summary><b>Option 1 - via CHSuite</b> <em>(recommended)</em></summary>
 <br>
 
 1. Install the latest version of [CHSuite](https://github.com/iamjrmh/CHSuite) and navigate to **CHManager**.
@@ -250,7 +250,7 @@ There are three ways to install Clone Hero on macOS — pick whichever suits you
 </details>
 
 <details>
-<summary><b>Option 2 — via Clone Hero Launcher</b></summary>
+<summary><b>Option 2 - via Clone Hero Launcher</b></summary>
 <br>
 
 1. Download the [Clone Hero Launcher DMG](https://github.com/clonehero-game/releases/releases/download/CloneHeroLauncher/Clone.Hero.Launcher.dmg) and open it.
@@ -260,7 +260,7 @@ There are three ways to install Clone Hero on macOS — pick whichever suits you
 </details>
 
 <details>
-<summary><b>Option 3 — via the official website</b></summary>
+<summary><b>Option 3 - via the official website</b></summary>
 <br>
 
 1. Go to [clonehero.net](https://clonehero.net/) and press **Download vX.X.X.X**.
@@ -278,7 +278,7 @@ There are three ways to install Clone Hero on macOS — pick whichever suits you
 > CHSuite only downloads `.sng` files, which requires Clone Hero **v1.1 or later**. Bridge and Chorus Encore do not force `.sng`, so they work with older versions. `.sng` is highly recommended if you're on a hard drive and downloading tens of thousands of songs.
 
 <details>
-<summary><b>Option 1 — via CHSuite</b></summary>
+<summary><b>Option 1 - via CHSuite</b></summary>
 <br>
 
 1. Download [CHSuite](https://github.com/iamjrmh/CHSuite) and navigate to **CHSongManager**.
@@ -289,7 +289,7 @@ There are three ways to install Clone Hero on macOS — pick whichever suits you
 </details>
 
 <details>
-<summary><b>Option 2 — via Bridge</b></summary>
+<summary><b>Option 2 - via Bridge</b></summary>
 <br>
 
 1. Download and open the [Bridge DMG](https://github.com/Geomitron/Bridge/releases/download/v3.4.5/Bridge-3.4.5-universal.dmg).
@@ -300,7 +300,7 @@ There are three ways to install Clone Hero on macOS — pick whichever suits you
 </details>
 
 <details>
-<summary><b>Option 3 — via Chorus Encore</b></summary>
+<summary><b>Option 3 - via Chorus Encore</b></summary>
 <br>
 
 1. Go to [enchor.us](https://www.enchor.us/) and search for the song you want.
@@ -338,7 +338,7 @@ There are three ways to install Clone Hero on macOS — pick whichever suits you
 3. Download the latest Clone Hero IPA, then install it through LiveContainer rather than SideStore directly to preserve your sideloading slots for other apps.
 4. Launch Clone Hero and create a profile. This ensures all required game data folders are generated on first run.
 5. Close Clone Hero, reopen LiveContainer, then tap and hold **Clone Hero** and select **Open Data Folder**.
-6. Note the folder name shown — this is your Clone Hero data directory where all downloaded songs, custom backgrounds, highways, and profiles belong.
+6. Note the folder name shown - this is your Clone Hero data directory where all downloaded songs, custom backgrounds, highways, and profiles belong.
 
 ---
 
@@ -379,7 +379,7 @@ There are three ways to install Clone Hero on macOS — pick whichever suits you
 Before installing the APK, you need to allow your device to install apps from outside the Play Store. The steps vary by Android version and manufacturer.
 
 <details>
-<summary><b>Android 8+ — Samsung devices</b></summary>
+<summary><b>Android 8+ - Samsung devices</b></summary>
 <br>
 
 1. Go to **Settings > Apps**.
@@ -391,7 +391,7 @@ Before installing the APK, you need to allow your device to install apps from ou
 </details>
 
 <details>
-<summary><b>Android 8+ — Non-Samsung devices</b></summary>
+<summary><b>Android 8+ - Non-Samsung devices</b></summary>
 <br>
 
 1. Go to **Settings > Apps**.
@@ -416,7 +416,7 @@ Before installing the APK, you need to allow your device to install apps from ou
 
 1. Download and install the latest Clone Hero APK.
 2. Launch Clone Hero and create a profile. This ensures all required game data folders are generated on first run.
-3. Note the data folder location shown in-game — this is where all downloaded songs, custom backgrounds, highways, and profiles belong.
+3. Note the data folder location shown in-game - this is where all downloaded songs, custom backgrounds, highways, and profiles belong.
 
 ---
 
