@@ -26,7 +26,7 @@
 
 ## 📋 Table of Contents
 
-- [🪟 Windows](#-windows)
+- [🗔 Windows](#-windows)
   - [Installing Clone Hero](#installing-clone-hero)
   - [Downloading Songs](#downloading-songs)
   - [Downloading Custom Colors, Backgrounds & Highways](#downloading-custom-colors-backgrounds--highways)
