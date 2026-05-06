@@ -332,6 +332,8 @@ There are three ways to install Clone Hero on macOS - pick whichever suits you b
 
 > [!TIP]
 > **Want the latest PTB build without sideloading?** Starting from v1.1.0.5977-PTB, Clone Hero has an official TestFlight beta. [**Join the beta on TestFlight →**](https://testflight.apple.com/join/XAAG82hb)
+>
+> **IPA Files will still be availiable from this repos releases!** Download the [**latest Clone Hero IPA**](https://github.com/iamjrmh/CloneHeroInstallation/releases/latest) or download a [**specific version**](https://github.com/iamjrmh/CloneHeroInstallation/releases/).
 
 1. Install [SideStore](https://sidestore.io/), a PC-free sideloading tool. Follow its built-in setup guide to get everything configured before continuing.
 2. Because Apple limits how many sideloaded apps can be active at once, install [LiveContainer](https://github.com/LiveContainer/LiveContainer). It lets you run additional IPA files inside a single sideloaded slot, making it much easier to manage Clone Hero and future installs.
